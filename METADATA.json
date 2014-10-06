@@ -1,0 +1,24 @@
+{
+  "name": "Lao Muang Don",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5971,
+  "fonts": [
+    {
+      "name": "Lao Muang Don",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LaoMuangDon-Regular.ttf",
+      "postScriptName": "LaoMuangDon",
+      "fullName": "Lao Muang Don",
+      "copyright": "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
